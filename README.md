@@ -53,7 +53,7 @@ My work spans high-throughput platforms across SaaS, multi-tenant architectures,
 An enterprise-grade e-commerce and inventory platform built for real-time order processing, secure payment integrations, and fine-grained Role-Based Access Control (RBAC).
 * **Key Features:** High-concurrency transaction handling, inventory lock management, caching layers, and automated receipt generation.
 * **Stack:** Django, Django REST Framework, PostgreSQL, Redis, Paystack, JWT, React.js, Tailwind CSS
-* [Live application](https://joshuasco.vercel.app) • [Repository](https://github.com/joshuasco/circuit-hub)
+* [Live application](https://circuithub-orcin.vercel.app/) • [Repository](https://github.com/joshuasco/circuit-hub)
 
 ---
 
@@ -61,7 +61,7 @@ An enterprise-grade e-commerce and inventory platform built for real-time order 
 A containerized authentication and identity management service supporting OAuth 2.0, multi-tenant authorization, two-factor authentication, and security audit logging.
 * **Key Features:** Low-latency response times, request idempotency protection, and containerized deployment readiness.
 * **Stack:** FastAPI, PostgreSQL, Redis, Docker, JWT
-* [Live application](https://joshuasco.vercel.app) • [Repository](https://github.com/joshuasco/skillman)
+* [Live application](https://skileman.onrender.com/) • [Repository](https://github.com/joshuasco/skilleman/)
 
 ---
 
@@ -69,7 +69,7 @@ A containerized authentication and identity management service supporting OAuth 
 A multi-tenant event management and ticketing engine built to process live bookings, ticket generation with dynamic QR codes, and multi-gateway payouts.
 * **Key Features:** Asynchronous job processing for email delivery, optimistic locking for ticket inventory, and responsive frontend dashboards.
 * **Stack:** React.js, Tailwind CSS, FastAPI, Firebase, Flutterwave
-* [Live application](https://joshuasco.vercel.app) • [Repository](https://github.com/joshuasco/techx-africa)
+* [Live application](https://txa-26.vercel.app) • [Repository](https://github.com/joshuasco/txa-26/)
 
 ---
 
