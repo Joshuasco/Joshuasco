@@ -1,8 +1,12 @@
-# Hi there, I'm Joshua Odigbo 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:005571,100:092E20&height=200&section=header&text=Joshua%20Odigbo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descSize=18&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-odigbo-80251a218)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://joshuasco.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emekaodigbo1@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/joshua-odigbo-80251a218"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://joshuasco.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:emekaodigbo1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
@@ -41,8 +45,8 @@ My work spans high-throughput platforms across SaaS, multi-tenant architectures,
 ## 📊 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshuasco&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshuasco&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joshuasco&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-git-masterrst-github-readme-stats.vercel.app/api/top-langs/?username=joshuasco&layout=compact&theme=dark&hide_border=false" alt="Top Languages" width="48%" />
 </p>
 
 ---
